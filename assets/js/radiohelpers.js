@@ -28,6 +28,9 @@ function frequencyToBand(frequency) {
 	else if(result >= 24000000 && result <= 25000000) {
 		return '12m';
 	}
+	else if(result >= 26965000 && result <= 27405000) {
+		return '11m';
+	}
 	else if(result >= 28000000 && result <= 30000000) {
 		return '10m';
 	}

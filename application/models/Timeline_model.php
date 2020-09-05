@@ -47,6 +47,7 @@ class Timeline_model extends CI_Model
         "17m" => 0,
         "15m" => 0,
         "12m" => 0,
+        "11m" => 0,
         "10m" => 0,
         "6m" => 0,
         "4m" => 0,
